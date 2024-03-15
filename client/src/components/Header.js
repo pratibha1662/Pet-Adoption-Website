@@ -19,7 +19,7 @@ function Header(props) {
           sx={{ flex: 1 }}
         >
           <Link to='/'>
-            <img src=".\images\logo.jpeg" width='250' alt="logo" />
+            <img src={require("../assets/images/logo.jpeg")} width='250' alt="logo" />
           </Link>
         </Typography>
       </Toolbar>
