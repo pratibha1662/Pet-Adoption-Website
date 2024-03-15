@@ -18,7 +18,7 @@ export const featuredPets = [
     image:
       "https://images.unsplash.com/photo-1601979031925-424e53b6caaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
     imageLabel: "Image Text",
-    category: "dogs",
+    category: "Dogs",
     additionalImages: [
       "/images/1.jpg",
       "/images/2.jpg",
@@ -41,7 +41,7 @@ export const featuredPets = [
     image:
       "https://images.unsplash.com/photo-1600804340584-c7db2eacf0bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
     imageLabel: "Image Text",
-    category: "dogs",
+    category: "Dogs",
     additionalImages: [],
   },
   {
@@ -55,7 +55,7 @@ export const featuredPets = [
     image:
       "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?cs=srgb&dl=pexels-kateryna-babaieva-2853422.jpg&fm=jpg",
     imageLabel: "Image Text",
-    category: "dogs",
+    category: "Dogs",
     additionalImages: [],
   },
   {
@@ -69,7 +69,7 @@ export const featuredPets = [
     image:
       "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
     imageLabel: "Image Text",
-    category: "cats",
+    category: "Cats",
     additionalImages: [],
   },
   {
@@ -83,7 +83,7 @@ export const featuredPets = [
     image:
       "https://images.pexels.com/photos/1770918/pexels-photo-1770918.jpeg?cs=srgb&dl=pexels-leonardo-de-oliveira-1770918.jpg&fm=jpg",
     imageLabel: "Image Text",
-    category: "cats",
+    category: "Cats",
     additionalImages: [],
   },
   {
@@ -97,7 +97,7 @@ export const featuredPets = [
     image:
       "https://animalcorner.org/wp-content/uploads/2020/11/American-Fuzzy-Lop-Rabbit.png",
     imageLabel: "Image Text",
-    category: "rabbits",
+    category: "Rabbits",
     additionalImages: [],
   },
   {
@@ -112,7 +112,7 @@ export const featuredPets = [
     image:
       "https://images.pexels.com/photos/4001296/pexels-photo-4001296.jpeg?cs=srgb&dl=pexels-satyabratasm-4001296.jpg&fm=jpg",
     imageLabel: "Image Text",
-    category: "rabbits",
+    category: "Rabbits",
     additionalImages: [],
   },
   {
@@ -126,7 +126,7 @@ export const featuredPets = [
     image:
       "https://cdn.pixabay.com/photo/2018/04/09/22/00/animal-3305672_1280.jpg",
     imageLabel: "Image Text",
-    category: "birds",
+    category: "Birds",
     additionalImages: [],
   },
   {
@@ -140,7 +140,7 @@ export const featuredPets = [
     image:
       "https://cdn.pixabay.com/photo/2016/11/29/03/33/animal-1867082_1280.jpg",
     imageLabel: "Image Text",
-    category: "birds",
+    category: "Birds",
     additionalImages: [],
   },
   {
@@ -154,7 +154,7 @@ export const featuredPets = [
     image:
       "https://images.pexels.com/photos/1275409/pexels-photo-1275409.jpeg?cs=srgb&dl=pexels-aman-jakhar-1275409.jpg&fm=jpg",
     imageLabel: "Image Text",
-    category: "birds",
+    category: "Birds",
     additionalImages: [],
   },
   {
@@ -168,7 +168,7 @@ export const featuredPets = [
     image:
       "https://images.unsplash.com/photo-1545468800-85cc9bc6ecf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
     imageLabel: "Image Text",
-    category: "others",
+    category: "Others",
     additionalImages: [],
   },
   {
@@ -182,7 +182,7 @@ export const featuredPets = [
     image:
       "https://i0.wp.com/blog.frontiersin.org/wp-content/uploads/2021/06/frontiers-bioengineering-biotechnology-cow-rumen-microbes-source-of-novel-enzymes-breaking-down-plastic-waste.jpg?ssl=1",
     imageLabel: "Image Text",
-    category: "others",
+    category: "Others",
     additionalImages: [],
   },
   {
@@ -196,7 +196,7 @@ export const featuredPets = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cotswold_Sheep_%28cropped%29.JPG/440px-Cotswold_Sheep_%28cropped%29.JPG",
     imageLabel: "Image Text",
-    category: "others",
+    category: "Others",
     additionalImages: [],
   },
   {
@@ -210,7 +210,7 @@ export const featuredPets = [
     image:
       "https://spca.bc.ca/wp-content/uploads/piglet-Pixabay-free-photo2-825x417.jpg",
     imageLabel: "Image Text",
-    category: "others",
+    category: "Others",
     additionalImages: [],
   },
 ];
