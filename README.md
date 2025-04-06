@@ -1,5 +1,6 @@
 # Pet Adoption Website
-[Project Link-](https://pet-adoption-website-m7xh.onrender.com/)
+[Project Link](https://pet-adoption-website-m7xh.onrender.com/)
+
 - Developed a MERN stack application, showcasing a strong UI interface.  
 - The platform showcases adoptable pets on the homepage and offers a user-friendly experience with navigation 
   options for exploring different animal categories and their respective traits.  
