@@ -7,7 +7,7 @@ A responsive and user-friendly MERN stack web application built to simplify and 
 
 I created this platform to combine my interest in web development with a meaningful cause — helping animals find loving homes. It was also an opportunity to strengthen my skills in full-stack development using the MERN stack, from designing a clean user interface to building robust backend APIs and handling dynamic data with MongoDB.
 
-## This website application provides the following functionality:
+### This website application provides the following functionality:
 
 - Displays adoptable pets on the homepage with their names, images, and basic info.
 - Allows users to explore pets based on categories such as dogs, cats, and other animals.
